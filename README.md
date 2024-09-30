@@ -3,9 +3,13 @@ This project focuses on analyzing credit card transactions to detect fraudulent 
 
 ## Key Findings
 🕒 Fraudulent transactions tend to occur more frequently at night and involve higher amounts.
+
 🌳 Trained a Random Forest classifier to predict fraudulent transactions with notable accuracy.
+
 📊 The transaction size by age analysis shows that while younger customers have higher transaction volumes, older customers are more likely to make larger purchases.
+
 🌍 Geographic analysis reveals higher instances of fraud in certain regions, visualized through a choropleth map.
+
 👥 Gender-based spending analysis highlights distinct differences in spending categories between males and females.
 
 ## Project Highlights
